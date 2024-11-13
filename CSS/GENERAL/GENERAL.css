@@ -1,0 +1,96 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif;
+}
+
+
+button {
+    border-radius: 20px;
+}
+
+
+
+
+
+
+/* HEADER */
+header,
+.inicio .cont_titulo button {
+    background-color: #211C3E;
+    color: aliceblue;
+}
+
+
+
+
+
+
+
+/* INICIO */
+.inicio .cont_titulo button {
+    border: none;
+}
+
+
+.inicio .cont_titulo h1,
+.inicio .cont_titulo p {
+    color: #211C3E;
+}
+
+
+
+
+
+
+
+/* PRODUCTOS */
+.cont_lista_venta>ul>li button {
+    background-color: aliceblue;
+    color: #211C3E;
+}
+
+
+.cont_lista_venta>ul>li h1 {
+    color: aliceblue;
+    background-color: #00000040;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* CONTACTO */
+form input,
+form textarea {
+    background-color: rgb(241, 241, 241);
+    resize: none;
+}
+
+
+form button {
+    background-color: #211C3E;
+    color: aliceblue;
+}
+
+
+
+
+
+
+
+/* FOOTER */
+#FOOTER footer {
+    background-color: rgb(22, 22, 22);
+}
+
+#FOOTER footer .cont_enlaces_footer li {
+    color: aliceblue;
+}
